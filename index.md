@@ -3,12 +3,6 @@ My professional webpage(WIP)
 
 <html>
 <head>
-<title>Joshua Gerena</title>
-<style type="text/css">
-<!--
-.style1 {font-family: Arial, Helvetica, sans-serif}
--->
-</style>
 </head>
 <body bgcolor="#dea4f9">
 <h2 class="style1"> <i>Projects for GEO 120: Maps and Mapping</i> </h2>
