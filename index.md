@@ -3,7 +3,7 @@
 716-949-0746 | jngerena@buffalo.edu
 
 
-An image: ![alt text](https://github.com/jngerena/jngerena.github.io/blob/master/avis.jpg "I'm an Aries!")
+![I'm an Aries!]({{https://github.com/jngerena/jngerena.github.io}}/blob/master/avis.jpg)
 
 
 Technical Skills
