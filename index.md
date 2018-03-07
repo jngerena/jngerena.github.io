@@ -1,11 +1,36 @@
 # Joshua N Gerena
-## My professional webpage(WIP)
+## My personal webpage(WIP)
 716-949-0746 | jngerena@buffalo.edu
 
 
-![yo](https://jngerena.github.io/Assets/avis.jpg)
+![This is me](https://jngerena.github.io/Assets/avis.jpg)
 
 
 Technical Skills
 <hr>
-Languages
+    Languages etc.
+    
+    
+        * Java(Primary)
+        * C++(Secondary)
+        * HTML
+        * CSS / Bootstrap
+        * Markdown / Markdown Here
+    
+    Operating Systems
+        
+        * Windows
+        * Raspbian
+    
+    IDE, Text Editors, Version Control
+        
+        * Eclipse
+        * IntelliJ
+        * Brackets
+        * Git
+
+
+Experience
+<hr>
+    Dragon Hacks 2018
+    Software intern at Realty USA
