@@ -25,6 +25,7 @@ Technical Skills
         
         * Eclipse
         * IntelliJ
+        * Webstorm
         * Brackets
         * Git
 
