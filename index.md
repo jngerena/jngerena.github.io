@@ -39,7 +39,7 @@ Experience
         recognition to ID the guest. I learned how to use 
         Raspbian as well as AWS.
         
-    Software intern at Realty USA
+    Software intern at Realty USA 2016
         
         Worked with one of the head programmers to learn one
         of the company’s databases, how it worked and how it
@@ -48,12 +48,13 @@ Experience
         head programmer work while he walked me through his 
         thought processes.
         
-Education
+Education 
 <hr>
-    * Passed CSE 115 with an A (Java)
-    * Currently in CSE 166 (Java)
-    * Currently in GEO 120 (HTML)
-    * Took two years of java in high school and one of C++
+    University at Buffalo SUNY - Ex. Grad. 2021
+        * Passed CSE 115 with an A (Java)
+        * Currently in CSE 166 (Java)
+        * Currently in GEO 120 (HTML)
+        * Took two years of java in high school and one of C++
     
 Links
 <hr>
